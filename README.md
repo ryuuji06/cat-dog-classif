@@ -5,7 +5,7 @@ In this test, I implemented a simple binary image classification system with a c
 This code was inpired by the Keras tutorial [1], and the training is performed with the dataset [2]. The model used is a simplified ResNet [3], with separable convolutions [4].
 
 
-REFERENCES
+## References
 
 [1] Keras tutorial. https://keras.io/examples/vision/image_classification_from_scratch/
 
