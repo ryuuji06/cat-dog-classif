@@ -2,7 +2,7 @@
 
 In this test, I implemented a simple binary image classification system with a convolutional neural network (CNN), in order to classify an input image as `cat` or `dog`.
 
-This code was inpired by the Keras tutorial [1], and the training is performed with the dataset [2]. The model used is a simplified ResNet [3], with separable convolutions [4].
+This code was inpired by the Keras tutorial [1], and the training is performed with the dataset [2]. The model used is a simplified ResNet [3], with separable convolutions [4] (actually, now I guess this is an Xception, I'm still learning about networks for image classification stuff).
 
 
 ## References
